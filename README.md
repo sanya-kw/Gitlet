@@ -33,9 +33,14 @@ This project was completed as part of UC Berkeley's CS 61B: Data Structures cour
 
 ## Example Commands
 java gitlet.Main init
+
 java gitlet.Main add example.txt
+
 java gitlet.Main commit "Initial commit"
+
 java gitlet.Main branch feature
+
 java gitlet.Main checkout feature
+
 java gitlet.Main merge main
 
