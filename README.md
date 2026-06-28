@@ -22,15 +22,6 @@ This project was completed as part of UC Berkeley's CS 61B: Data Structures cour
 * Managed repository state across multiple program executions without relying on external libraries
 * Built a command-line interface that mirrors the behavior of common Git commands
 
-## Technologies
-* Java
-* Object-Oriented Programming
-* File I/O
-* Serialization
-* Hash Maps
-* Trees and Directed Acyclic Graphs (DAGs)
-* Command-Line Interface (CLI)
-
 ## Example Commands
 java gitlet.Main init
 
